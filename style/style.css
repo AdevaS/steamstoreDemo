@@ -1,0 +1,7 @@
+.table-bordered {
+  width: 100%;
+}
+
+#game-table th:first-child {
+  width: 45px;
+}
